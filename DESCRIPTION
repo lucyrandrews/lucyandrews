@@ -16,6 +16,7 @@ Imports:
   magrittr,
   sf
 Suggests:
+  testthat,
   devtools,
   roxygen2
 License: MIT + file LICENSE
