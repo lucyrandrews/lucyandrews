@@ -7,7 +7,8 @@ Authors@R: c(person("Lucy", "Andrews", role = c("aut", "cre"),
              comment = c(ORCID = "0000-0003-0278-9079")))
 Author: Lucy Andrews [aut, cre] (<https://orcid.org/0000-0003-0278-9079>)
 Maintainer: Lucy Andrews <lucyandrews@berkeley.edu>
-URL: 
+URL: https://github.com/lucyrandrews/lucyandrews
+BugReports: https://github.com/lucyrandrews/lucyandrews/issues
 Depends:
   R (>= 4.2.0)
 Imports:
