@@ -1,0 +1,24 @@
+Package: lucyandrews
+Version: 0.1
+Title: Lucy Andrews's R code and functions
+Description: Functions that Lucy Andrews commonly uses in her workflow.
+Authors@R: c(person("Lucy", "Andrews", role = c("aut", "cre"),
+             email = "lucyandrews@berkeley.edu",
+             comment = c(ORCID = "0000-0003-0278-9079")))
+Author: Lucy Andrews [aut, cre] (<https://orcid.org/0000-0003-0278-9079>)
+Maintainer: Lucy Andrews <lucyandrews@berkeley.edu>
+URL: 
+Depends:
+  R (>= 4.2.0)
+Imports:
+  here,
+  tidyverse,
+  magrittr,
+  sf
+Suggests:
+  devtools,
+  roxygen2
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
